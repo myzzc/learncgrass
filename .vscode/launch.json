@@ -19,7 +19,7 @@
       "environment": [],
       "program": "/Users/jerry.zhang/vscode/test/build/Debug/outDebug",
       "internalConsoleOptions": "openOnSessionStart",
-      "MIMode": "lldb",
+      "MIMode": "gdb",
       "console": "integratedTerminal"
     }
   ]
